@@ -2,6 +2,6 @@
 
 To mint complete property datasets and create corresponding HTML pages, follow this ordered sequence of notebooks:
 
-- `Seeding.ipynb`
+- `Step_2_Seeding.ipynb`
 - `CountyDataGroup.ipynb`
 - `PhotoMetaData.ipynb`
